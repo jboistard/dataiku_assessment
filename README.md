@@ -1,6 +1,3 @@
-# dataiku_assessment
-Submission for the Dataiku Data Scientist Technical Assessment
-
 # Submission
 The submission is divided into 2 notebooks :
 1. Exploratory data analysis and insights
